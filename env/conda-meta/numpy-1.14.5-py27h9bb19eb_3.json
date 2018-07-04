@@ -1,0 +1,36 @@
+{
+  "arch": "x86_64",
+  "build": "py27h9bb19eb_3",
+  "build_number": 3,
+  "channel": "https://repo.continuum.io/pkgs/main",
+  "constrains": [],
+  "depends": [
+    "libgfortran >=3.0.1",
+    "mkl_fft",
+    "mkl_random",
+    "numpy-base 1.14.5 py27ha9ae307_3",
+    "python >=2.7,<2.8.0a0"
+  ],
+  "extracted_package_dir": "/Users/shutasuzuki/anaconda/pkgs/numpy-1.14.5-py27h9bb19eb_3",
+  "files": [],
+  "fn": "numpy-1.14.5-py27h9bb19eb_3.tar.bz2",
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "/Users/shutasuzuki/anaconda/pkgs/numpy-1.14.5-py27h9bb19eb_3",
+    "type": 1
+  },
+  "md5": "47b1c167f086cbedb953fd81abfefbb3",
+  "name": "numpy",
+  "package_tarball_full_path": "/Users/shutasuzuki/anaconda/pkgs/numpy-1.14.5-py27h9bb19eb_3.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "platform": "darwin",
+  "requested_spec": "None",
+  "size": 95771,
+  "subdir": "osx-64",
+  "timestamp": 1530554146118,
+  "url": "https://repo.continuum.io/pkgs/main/osx-64/numpy-1.14.5-py27h9bb19eb_3.tar.bz2",
+  "version": "1.14.5"
+}

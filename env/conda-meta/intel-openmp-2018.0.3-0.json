@@ -1,0 +1,49 @@
+{
+  "arch": "x86_64",
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/main",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "/Users/shutasuzuki/anaconda/pkgs/intel-openmp-2018.0.3-0",
+  "files": [
+    "lib/libiomp5.dylib",
+    "lib/libiompstubs5.dylib"
+  ],
+  "fn": "intel-openmp-2018.0.3-0.tar.bz2",
+  "license": "proprietary - Intel",
+  "license_family": "Proprietary",
+  "link": {
+    "source": "/Users/shutasuzuki/anaconda/pkgs/intel-openmp-2018.0.3-0",
+    "type": 1
+  },
+  "md5": "db9e9cb72b3104e0f69bca14f9750bef",
+  "name": "intel-openmp",
+  "package_tarball_full_path": "/Users/shutasuzuki/anaconda/pkgs/intel-openmp-2018.0.3-0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/libiomp5.dylib",
+        "path_type": "hardlink",
+        "sha256": "16cd0f1a5baa41da8ada2be161d94560d9f479533bbf5d8d66e3a43ab0411c07",
+        "sha256_in_prefix": "16cd0f1a5baa41da8ada2be161d94560d9f479533bbf5d8d66e3a43ab0411c07",
+        "size_in_bytes": 2620336
+      },
+      {
+        "_path": "lib/libiompstubs5.dylib",
+        "path_type": "hardlink",
+        "sha256": "9902f281489cabccfef0a8f6fa43b00ffaf78463bcba7c3c407acfea9432a726",
+        "sha256_in_prefix": "9902f281489cabccfef0a8f6fa43b00ffaf78463bcba7c3c407acfea9432a726",
+        "size_in_bytes": 179600
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "darwin",
+  "requested_spec": "None",
+  "size": 1028479,
+  "subdir": "osx-64",
+  "timestamp": 1528121958133,
+  "url": "https://repo.continuum.io/pkgs/main/osx-64/intel-openmp-2018.0.3-0.tar.bz2",
+  "version": "2018.0.3"
+}
